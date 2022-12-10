@@ -28,7 +28,7 @@ html {
     right: 0;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     z-index: 100;
     background: #1d1d23;
 }
@@ -61,7 +61,7 @@ html {
 
 .icons a {
     color: white;
-    padding: 0.6rem 1.5rem;
+    padding: 0.6rem 10rem;
     border: 1px solid orange;
     border-radius: 10px;
     font-size: 18px;
@@ -96,7 +96,7 @@ html {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
-    gap: 15px;
+    gap: 150px;
     padding-top: 150px;
     padding-left: 4rem;
     padding-right: 4rem;
